@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-97oqne.mon-saas.com/sitemap.xml
